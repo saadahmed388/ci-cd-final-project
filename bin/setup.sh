@@ -1,4 +1,5 @@
-#!/bin/bash
+
+exiexit#!/bin/bash
 echo "**************************************************"
 echo " Setting up CI/CD Final Project Environment"
 echo "**************************************************"
